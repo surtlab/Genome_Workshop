@@ -1,2 +1,4 @@
 # Genome_Workshop
-Data and scripts for Genome Annotation
+Overview and Scripts for Genome Annotation
+
+Scripts are available in the /scripts/ directory. 
