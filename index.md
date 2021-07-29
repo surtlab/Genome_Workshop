@@ -2,7 +2,7 @@
 
 ### Setting up the environment
 
-A PDF of the shared slides can be found [HERE](https:)
+A PDF of the shared slides can be found [HERE](https://github.com/surtlab/Genome_Workshop/raw/main/GenomeWorkshop.pdf)
 
 I have set up everything in my shared folder on the hpc.ilri.cgiar.org system so that the paths all point towards this shared folder for files. 
 
