@@ -24,7 +24,9 @@ If only using long reads, `unicycler` will assemble the genome using the long re
 
 To run unicycler from the shared directory paste the following
 
-```sbatch Genome_Workshop/scripts/unicycler.sh```
+```
+sbatch Genome_Workshop/scripts/unicycler.sh
+```
 
 ### Genome Annotation
 
@@ -34,5 +36,7 @@ If you'll be submitting genomes to the NCBI and Genbank as a public repository, 
 
 Today we'll use `prokka` as a tool, which is a bit more useful than PGAP given that you can tune the annotations in more specific ways depending on taxa you're working with. To run `prokka` from the shared directory paste the following
 
-```sbatch Genome_Workshop/scripts/prokka.sh```
+```
+sbatch Genome_Workshop/scripts/prokka.sh
+```
 
